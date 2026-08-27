@@ -1,54 +1,98 @@
-<h1 align="center">Hi 👋, I'm Luisbatistil</h1>
+# 👋 Hi, I'm Luisbatistil
 
-<p align="center">
-  <strong>Developer • Tech Enthusiast • Builder</strong>
+<img align="right" height="179" src="./assets/coding.gif" alt="Coding animation" />
+
+### 🚀 Developer • Builder • Tech Enthusiast
+
+I enjoy turning ideas into **useful, modern, and meaningful digital experiences**.
+
+I'm passionate about software development, AI-assisted development, web applications, system design, and building projects that solve real-world problems.
+
+<br clear="right"/>
+
+---
+
+## 🧑‍💻 About Me
+
+* 💻 I build **web applications, systems, and creative software projects**
+* 🤖 Exploring **AI and Agentic AI development**
+* 🌐 Interested in **modern web technologies and system architecture**
+* 🎨 I care about **clean UI, user experience, and functionality**
+* 🛠️ I enjoy turning concepts into working products
+* 📚 Always learning, experimenting, and improving
+* 🚀 Currently building and exploring new ideas
+
+> **"Build it. Break it. Learn from it. Build it better."**
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,php,java" />
 </p>
 
-<p align="center">
-  I enjoy building projects, exploring new technologies, and turning ideas into real applications.
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,figma,linux" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-* 💻 I enjoy building web and software projects
-* 🤖 Interested in AI and emerging technologies
-* 🛠️ Currently exploring modern development tools and frameworks
-* 🎯 Always learning and improving my development skills
-* 💡 I believe technology should help people build better solutions
+### 💍 PovMyWedding
+
+A modern wedding platform designed to let couples create a personalized digital wedding experience where guests can capture photos and leave messages.
+
+**Focus:** Web Development • UX/UI • QR Experience • System Design
 
 ---
 
-## 🧰 Technologies & Tools
+### 🦷 Dental Management System
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-</p>
+A modern management platform designed to help dental clinics manage their operations, patients, schedules, and workflows.
+
+**Focus:** SaaS • System Architecture • Business Workflow • Healthcare Software
+
+---
+
+### 🖐️ AR Hand Gesture Filter
+
+An interactive real-time AR experience using computer vision and hand tracking.
+
+**Tech:** Python • OpenCV • MediaPipe • NumPy
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=luisbatistil&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbatistil&layout=compact&langs_count=8&theme=dracula&hide_border=false"
-    height="180"
-    alt="Top Languages"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Luisbatistil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisbatistil&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Luisbatistil&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,43 +100,61 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/luisbatistil/luisbatistil/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/Luisbatistil/Luisbatistil/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.instagram.com/luisbatistil/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/luisbatistil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://www.facebook.com/luisbatistil" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
-
----
-
-## 📈 GitHub Activity
+## 📈 Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=luisbatistil&theme=dracula&hide_border=false"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luisbatistil&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+AI & Agentic AI
+        ↓
+Modern Web Development
+        ↓
+System Architecture
+        ↓
+Cloud & AWS
+        ↓
+Building Real-World Products
+```
+
+---
+
+## 🎯 My Development Philosophy
+
+> **Technology should not replace developers.
+> It should empower developers to build better things.**
+
+I believe AI is most powerful when used as a **development partner** — helping developers explore ideas, automate repetitive work, learn faster, and build better solutions while keeping human creativity and decision-making at the center.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Luisbatistil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Build. Learn. Break. Improve. Repeat.”</i>
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Keep building. Keep learning. Keep creating.</i>
 </p>
