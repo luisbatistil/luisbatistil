@@ -26,6 +26,9 @@ I'm passionate about software development, AI-assisted development, web applicat
 
 ---
 
+<img data-importer="image" align="right" height="179" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3e1d9d0-9db0-4f8d-8865-cddb54ea2dae/diiyzwi-11983b83-cdd4-4291-b9dd-7b167692568d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jM2UxZDlkMC05ZGIwLTRmOGQtODg2NS1jZGRiNTRlYTJkYWUvZGlpeXp3aS0xMTk4M2I4My1jZGQ0LTQyOTEtYjlkZC03YjE2NzY5MjU2OGQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JVpaW2PlHQXTnmHh1N0b945qjgGRqwOiQf97EL0Q5XY"  />
+
+
 ## ⚡ Tech Stack
 
 ### 💻 Languages
